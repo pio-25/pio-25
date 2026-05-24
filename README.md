@@ -15,7 +15,4 @@ UI/UX Designer | Frontend UI Designer | Web Design | Interaction Design | Figma<
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pio-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=pio-25&icon=1&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
